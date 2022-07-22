@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junaem)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junaem&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
