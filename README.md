@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 <!-- https://github.com/Ileriayo/markdown-badges 뱃지 링크 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junaem&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junaem&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats). [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junh700)](https://solved.ac/junh700)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -52,7 +53,4 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junh700)](https://solved.ac/junh700)
 
