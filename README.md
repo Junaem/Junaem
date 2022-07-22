@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- https://github.com/Ileriayo/markdown-badges 뱃지 링크 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junaem&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)     [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junh700)](https://solved.ac/junh700)
@@ -54,3 +53,5 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
+
+뱃지 출처 : https://github.com/Ileriayo/markdown-badges
