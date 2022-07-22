@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- https://github.com/Ileriayo/markdown-badges 뱃지 링크 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junaem&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats). [![Solved.ac
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junaem&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)     [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junh700)](https://solved.ac/junh700)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
