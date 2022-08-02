@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junaem&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=junh700)](https://solved.ac/junh700)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junaem&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats). 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=junh700)](https://solved.ac/junh700)
 
 # 
 
@@ -56,6 +56,6 @@ Here are some ideas to get you started:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 #
 #### 출처
-깃허브 스탯 : https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
-백준 스탯 : https://github.com/mazassumnida/mazassumnida
+깃허브 스탯 : https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md. 
+백준 스탯 : https://github.com/mazassumnida/mazassumnida. 
 뱃지 : https://github.com/Ileriayo/markdown-badges
